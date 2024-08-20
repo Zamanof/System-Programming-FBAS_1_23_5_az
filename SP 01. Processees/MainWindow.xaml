@@ -7,6 +7,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <!--<TextBox x:Name="procTextBox" Grid.ColumnSpan="2"/>-->
+        <ListBox x:Name="procListBox"/>
 
     </Grid>
 </Window>
